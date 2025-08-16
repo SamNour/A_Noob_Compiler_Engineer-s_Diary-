@@ -7,3 +7,4 @@
 - Cornell https://www.cs.cornell.edu/courses/cs6120/2022sp/blog/hcl-mlir/
 - https://www.cs.cornell.edu/courses/cs6120/2025sp/blog/bril-mlir/
 - https://www.cs.cornell.edu/courses/cs6120/2023fa/blog/mlir/
+- llvm manual AMD - https://rocm.docs.amd.com/projects/llvm-project/en/latest/LLVM/llvm/html/ProgrammersManual.html
